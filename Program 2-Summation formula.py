@@ -1,6 +1,4 @@
-#Program 2- Proving a Summation Formula
-#Juan Barbecho
-#Tuesday, November 24th
+#Proving a Summation Formula
 
 print("This program shows that the sum of the perfect cubes equals (n^2(n+1)^2)/4")
 print()
