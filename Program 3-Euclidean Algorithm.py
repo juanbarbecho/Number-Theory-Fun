@@ -1,4 +1,3 @@
-#Computer Program 3
 #Juan Barbecho
 #Euclidean Algorithm to find the GCD of two numbers
 print("Give me two numbers and I will find their GCD")
